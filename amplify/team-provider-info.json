@@ -10,6 +10,11 @@
       "StackName": "amplify-fsappone-dev-135524",
       "StackId": "arn:aws:cloudformation:us-east-1:241446044698:stack/amplify-fsappone-dev-135524/128d4b50-d6b0-11eb-af14-0a7c595099af",
       "AmplifyAppId": "dv3voj42ny8y0"
+    },
+    "categories": {
+      "auth": {
+        "fsapponefd6b6fe4": {}
+      }
     }
   }
 }
